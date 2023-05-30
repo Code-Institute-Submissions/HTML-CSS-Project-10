@@ -251,25 +251,25 @@ footer {
     text-align: right;
 }
 
-.social-networks {
+.social-media {
     text-align: center;
 }
 
-.social-networks>li {
+.social-media>li {
     display: inline;
 }
 
-.social-networks>li>a {
+.social-media>li>a {
     text-decoration: none;
 }
 
-.social-networks i {
+.social-media i {
     font-size: 250%;
     margin: 1%;
     padding: 5%;
     color: #fff;
 }
 
-.social-networks i:hover {
+.social-media i:hover {
     color: #000;
 }
