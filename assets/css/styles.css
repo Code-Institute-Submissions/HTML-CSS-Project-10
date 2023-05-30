@@ -171,3 +171,44 @@ hr {
     text-align: center;
     padding: 5px 20px;
 }
+
+/* Section 3 - Our Platforms*/
+#section-three {
+    height: 350px;
+    width: 100%;
+    background: url(../images/section-three-bg.jpg) no-repeat center/cover;
+}
+
+#section-three-text {
+    font-size: 200%;
+    font-family: 'Roboto', sans-serif;
+    letter-spacing: 5px;
+    margin: 0 auto;
+    width: 750px;
+    height: 100px;
+    padding: 5px 100px 0 100px;
+    color: #fff;
+    text-align: center;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+#section-three div {
+    color: #fafafa;
+    width: 33%;
+    margin: 0 auto;
+    padding: 55px 0 0 10px;
+    text-align: center;
+    box-sizing: border-box;
+    display: inline-block;
+}
+
+#section-three div:hover {
+    color: #0FF0FC;
+}
+
+.fa-brands,
+.fab {
+    font-weight: 400;
+    font-size: 500%;
+}
