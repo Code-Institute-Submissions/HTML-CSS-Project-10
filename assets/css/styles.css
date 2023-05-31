@@ -273,3 +273,79 @@ footer {
 .social-media i:hover {
     color: #000;
 }
+
+#team-section {
+    background-color: #252525;
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+}
+
+#team-section-info {
+    display: flex;
+}
+
+#team-section-text {
+    font-size: 250%;
+    margin: 0 auto;
+    width: 750px;
+    height: 100px;
+    padding: 5px 100px 0 100px;
+    color: #fff;
+    text-align: center;
+}
+
+.team-photo {
+    width: 200px;
+    border: 1px solid white;
+    border-radius: 50%;
+}
+
+.team-name-header {
+    font-size: 200%;
+    padding-bottom: 15px;
+}
+
+.team-title {
+    padding: 10px 0;
+}
+
+.team-description {
+    padding-bottom: 10px;
+}
+
+#team-ceo {
+    width: 33%;
+    float: left;
+    text-align: center;
+    padding: 0 25px;
+}
+
+#team-cto {
+    width: 33%;
+    text-align: center;
+    padding: 0 25px;
+}
+
+#team-coo {
+    width: 33%;
+    float: right;
+    text-align: center;
+    padding: 0 25px;
+}
+
+#team-cfo {
+    width: 33%;
+    float: left;
+    text-align: center;
+    padding: 0 25px;
+}
+
+#team-cmo {
+    width: 33%;
+    float: right;
+    text-align: center;
+    padding: 0 25px;
+}
+
+/* Screens from 1200px and less */
