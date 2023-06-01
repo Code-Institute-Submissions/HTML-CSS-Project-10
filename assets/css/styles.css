@@ -418,6 +418,16 @@ footer {
 
 /* Responsive Design */
 /* Screens from 1200px and less */
+@media screen and (max-width: 1200px) {
+    #section-two-text {
+        padding: 10px 100px 0 100px;
+    }
+
+    #section-two {
+        height: 400px;
+    }
+}
+
 @media screen and (max-width: 800px) {
     #section-one {
         height: 475px;
