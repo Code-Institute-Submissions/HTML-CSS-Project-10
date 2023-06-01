@@ -428,4 +428,36 @@ footer {
         width: 450px;
         padding: 75px 0 0 0;
     }
+
+    #section-two {
+        height: 700px;
+    }
+
+    #section-two-text {
+        font-size: 190%;
+        width: 500px;
+        padding: 0;
+        height: 75px;
+    }
+
+    hr {
+        padding: 0;
+    }
+
+    #s2-reason-one {
+        border-right: 1px solid white;
+    }
+
+    #s2-reason-three {
+        border-left: 1px solid white;
+    }
+
+    .s2-reason-header {
+        font-size: 175%;
+    }
+
+    .s2-reason-text {
+        text-align: left;
+        padding: 24px 20px;
+    }
 }
