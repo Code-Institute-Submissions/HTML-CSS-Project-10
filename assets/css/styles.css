@@ -432,6 +432,22 @@ footer {
     }
 }
 
+/* Screens from 950px and less */
+@media screen and (max-width: 950px) {
+    #section-two-text {
+        font-size: 250%;
+        font-family: 'Roboto', sans-serif;
+        letter-spacing: 5px;
+        margin: 0 auto;
+        width: 750px;
+        /* height: 100px; */
+        padding: 10px 100px 0 100px;
+        color: #fff;
+        text-align: center;
+    }
+}
+
+/* Screens from 800px and less */
 @media screen and (max-width: 800px) {
     #section-one {
         height: 475px;
