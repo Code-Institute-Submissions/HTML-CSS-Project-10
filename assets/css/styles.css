@@ -434,19 +434,21 @@ footer {
 
 /* Screens from 950px and less */
 @media screen and (max-width: 950px) {
-    #section-two-text {
-        height: 0;
+    nav {
+        display: flex;
+        width: 481px;
+        margin: 0 auto;
     }
+}
 
-    #footer-left {
-        margin-left: 10px;
-    }
+#footer-left {
+    margin-left: 10px;
+}
 
-    .social-media {
-        text-align: center;
-        display: list-item;
-        width: 350px;
-    }
+.social-media {
+    text-align: center;
+    display: inline;
+    width: 350px;
 }
 
 /* Screens from 800px and less */
