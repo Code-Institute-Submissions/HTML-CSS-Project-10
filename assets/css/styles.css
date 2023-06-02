@@ -436,7 +436,7 @@ footer {
 @media screen and (max-width: 950px) {
     nav {
         display: flex;
-        width: 481px;
+        width: 500px;
         margin: 0 auto;
     }
 }
