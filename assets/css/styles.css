@@ -427,6 +427,14 @@ footer {
         height: 400px;
     }
 
+    #team-section-info {
+        display: flex;
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
     #footer-left {
         margin-left: 30px;
     }
@@ -439,16 +447,23 @@ footer {
         width: 500px;
         margin: 0 auto;
     }
-}
 
-#footer-left {
-    margin-left: 10px;
-}
+    #team-section-info {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
 
-.social-media {
-    text-align: center;
-    display: inline;
-    width: 350px;
+    #footer-left {
+        margin-left: 10px;
+    }
+
+    .social-media {
+        text-align: center;
+        display: block;
+        width: 350px;
+    }
 }
 
 /* Screens from 800px and less */
