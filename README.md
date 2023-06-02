@@ -1,39 +1,242 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# Frostbite Studio Game Startup Website
 
-Welcome,
+The Frostbite Studios Website can be viewed on all devices to allow users to see who and what exactly Frostbite Game Studios is.
 
-This is the Code Institute student template for Codeanywhere. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+![Frostbite Studios Website shown on a range of devices](assets/images/frostbite*studios*site.jpg)
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **May 11th, 2023**
+[View Frostbite Studios on Github Pages]()
 
-## Codeanywhere Reminders
+## CONTENTS
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
-
-`python3 -m http.server`
-
-A button should appear to click: _Open Preview_ or _Open Browser_.
-
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere with no-cache, you can use this alias for `python3 -m http.server`.
-
-`http_server`
-
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
-
-A button should appear to click: _Open Preview_ or _Open Browser_.
-
-In Codeanywhere you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
-
-To log into the Heroku toolbelt CLI:
-
-1. Log in to your Heroku account and go to _Account Settings_ in the menu under your avatar.
-2. Scroll down to the _API Key_ and click _Reveal_
-3. Copy the key
-4. In Codeanywhere, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
-
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
+- [Frostbite Studio Game Startup Website](#frostbite-studio-game-startup-website)
+  - [CONTENTS](#contents)
+  - [User Experience (UX)](#user-experience-ux)
+    - [Initial Discussion](#initial-discussion)
+      - [Key information for the site](#key-information-for-the-site)
+    - [User Stories](#user-stories)
+      - [Client Goals](#client-goals)
+      - [First Time Visitor Goals](#first-time-visitor-goals)
+      - [Returning Visitor Goals](#returning-visitor-goals)
+      - [Frequent Visitor Goals](#frequent-visitor-goals)
+  - [Design](#design)
+    - [Colour Scheme](#colour-scheme)
+    - [Typography](#typography)
+    - [Imagery](#imagery)
+    - [Features](#features)
+    - [Accessibility](#accessibility)
+  - [Technologies Used](#technologies-used)
+    - [Languages Used](#languages-used)
+    - [Frameworks, Libraries \& Programs Used](#frameworks-libraries--programs-used)
+  - [Deployment \& Local Development](#deployment--local-development)
+    - [Deployment](#deployment)
+    - [Local Development](#local-development)
+      - [How to Fork](#how-to-fork)
+      - [How to Clone](#how-to-clone)
+  - [Testing](#testing)
+    - [W3C Validator](#w3c-validator)
+  - [Credits](#credits)
+    - [Code Used](#code-used)
+    - [Content](#content)
+    - [Media](#media)
+      - [Background Images](#background-images)
+      - [Teams Images](#teams-images)
+    - [Acknowledgments](#acknowledgments)
 
 ---
 
-Happy coding!
+## User Experience (UX)
+
+### Initial Discussion
+
+Frostbite Studios is a Game Development Startup that develops games on all platforms for users from all age groups.
+
+#### Key information for the site
+
+- Who and what is Frostbite Game Studios?
+- What platforms are the games created on?
+- A way for people to find out about the companies games and play them.
+
+### User Stories
+
+#### Client Goals
+
+- To make the website viewable from all electronic devices.
+- To be able to inform everyone who Frostbite Studio is and give a good impression.
+- To allow users to play games with no barriers.
+
+#### First Time Visitor Goals
+
+- I want to tell people who Frostbite Studio is and what they have to offer.
+- I want to browse freely through the website without any barriers.
+- I want to be able to follow their Social Media Platforms.
+
+#### Returning Visitor Goals
+
+- I want to find out about any new game releases and possible upcoming game updates.
+
+#### Frequent Visitor Goals
+
+- I want to be able to play the games and recommend them to other people.
+- I want to be able to contact them at all times, should I have any questions.
+
+---
+
+## Design
+
+### Colour Scheme
+
+![Frostbite Studios Website Colour Palette](docs/palette.jpg)
+
+This website uses more of a neon color that are often used in more Cyberpunk\*ish themes.
+
+### Typography
+
+The main Font used for this entire Website was 'Roboto'.
+
+### Imagery
+
+All images are taken from licence free stock photo website's which will be linked in the [credits](#credits) section.
+
+### Features
+
+This website consists of 3 Pages and are accessible via url and or the navigation menu.
+
+- All Pages on the website have:
+
+  - A navigation bar with the companies logo and links to the other pages.
+  - A footer with the companies contact info and links to social media accounts
+
+- Home Page:
+
+  - Our Companies Motto with a button to learn more.
+  - A section explaining as to why you should play our games
+  - Pretty icons to show which platforms of games we create.
+
+- About Us Page:
+
+  - A very detailed yet brief introduction to Frostbite Game Studios
+
+- Team Page:
+  - A detailed section with images showing the faces of the company as well as their titles and a short description of them.
+
+### Accessibility
+
+I paid very close attention to detail to make sure the website is very user friendly, easily navigatable and simple to understand. And I did this by:
+
+- Using structured Semantic HTML
+- Used clear and mind relaxing images to leave a good impression
+- Detailed alt on images
+- Making sure the styling is consistent throughout the whole site
+- Sticking to the same color palette.
+
+---
+
+## Technologies Used
+
+### Languages Used
+
+HTML & CSS
+
+### Frameworks, Libraries & Programs Used
+
+Git - Version control.
+
+Github - To create and save my codebase.
+
+Google Fonts - To use imported fonts for the wite.
+
+Font Awesome - For Icons.
+
+[Favicon.io](https://favicon.io/) For favicon.
+
+[Am I Responsive?](http://ami.responsivedesign.is/) Website Display on all Devices
+
+[namecheap] (<https://www.namecheap.com/logo-maker/app/>) to generate a Company Logo
+
+[TextGenerationAPI] (<https://deepai.org/machine-learning-model/text-generator>) to generate random text for the website.
+
+[letsmakeagame] (<https://letsmakeagame.net/video-game-company-name-generator/>) to generate a Company Name
+
+---
+
+## Deployment & Local Development
+
+### Deployment
+
+Github Pages was used to deploy the live website. The instructions to achieve this are below:
+
+1. Log in (or sign up) to Github.
+2. Find the repository for this project, (<https://github.com/Retr01234/HTML-CSS-Project-1>) HTML-CSS-Project-1.
+3. Click on the Settings link.
+4. Click on the Pages link in the left hand side navigation bar.
+5. In the Source section, choose main from the drop down select branch menu. Select Root from the drop down select folder menu.
+6. Click Save. Your live Github Pages site is now deployed at the URL shown.
+
+### Local Development
+
+#### How to Fork
+
+To fork the HTML-CSS-Project-1 repository:
+
+1. Log in (or sign up) to Github.
+2. Go to the repository for this project, (<https://github.com/Retr01234/HTML-CSS-Project-1>)HTML-CSS-Project-1.
+3. Click the Fork button in the top right corner.
+
+#### How to Clone
+
+To clone the Bully-Book-Club repository:
+
+1. Log in (or sign up) to GitHub.
+2. Go to the repository for this project, (<https://github.com/Retr01234/HTML-CSS-Project-1>) HTML-CSS-Project-1.
+3. Click on the code button, select whether you would like to clone with HTTPS, SSH or GitHub CLI and copy the link shown.
+4. Open the terminal in your code editor and change the current working directory to the location you want to use for the cloned directory.
+5. Type 'git clone' into the terminal and then paste the link you copied in step 3. Press enter.
+
+---
+
+## Testing
+
+Testing was done constantly before and after pushing new changes to the master branch. However, the biggest issue that I encountered by myself and with my mentor was:
+
+- Responsive Design - The whole page was not as responsive as I thought, but now its viewable on any device.
+
+### W3C Validator
+
+The W3C validator was used to validate the HTML on all pages of the website. It was also used to validate CSS in the style.css file.
+
+- [Index Page HTML](docs/home.png)
+- [About Us Page HTML](docs/about.png)
+- [Team Page HTML](docs/team.png)
+- [style.css CSS](docs/stylescss.png)
+
+## Credits
+
+The initial inspiration for this project was by this site: (<https://gamedevelopmentstudio.sites.motocms.com/?_ga=2.170778532.569467297.1685358573-309073917.1685358573>)
+
+### Code Used
+
+- [SheCode - CSS Gradient Generator] (<https://generators.shecodes.io/css-gradient-generator>)
+
+### Content
+
+Content for this Website was part of the 1st Code Institute Project and purely made by me. - Pave (Retr01234)
+
+### Media
+
+#### Background Images
+
+- [1st Image on Homepage] (<https://www.freepik.com/free-vector/space-game-background-neon-night-alien-landscape_7671274.htm#query=game%20art&position=1&from_view=keyword&track=ais>)
+- [2nd Image on Homepage] (<https://www.freepik.com/free-vector/night-ocean-landscape-full-moon-stars-shine_17740155.htm#query=game%20background&position=0&from_view=search&track=ais>)
+- [3rd Image on About Us Page] (<https://www.freepik.com/free-vector/dangerous-alien-planet-surface-with-rocky-surface_36102402.htm#query=game%20background%20moon%20dark&position=12&from_view=search&track=ais>)
+
+#### Teams Images
+
+- [CEO] (<https://unsplash.com/photos/ILip77SbmOE>)
+- [CTO] (<https://unsplash.com/photos/TY_n-fQyAA8>)
+- [COO] (<https://unsplash.com/photos/WMD64tMfc4k>)
+- [CFO] (<https://unsplash.com/photos/mEZ3PoFGs_k>)
+- [COO] (<https://unsplash.com/photos/ZXfUUM_LR0k>)
+
+### Acknowledgments
+
+I would sincerely like to thank my Mentor Jubril Akolade for helping me get through this project.
