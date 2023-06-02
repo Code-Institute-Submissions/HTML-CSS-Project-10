@@ -235,7 +235,7 @@ Content for this Website was part of the 1st Code Institute Project and purely m
 - [CTO] (<https://unsplash.com/photos/TY_n-fQyAA8>)
 - [COO] (<https://unsplash.com/photos/WMD64tMfc4k>)
 - [CFO] (<https://unsplash.com/photos/mEZ3PoFGs_k>)
-- [COO] (<https://unsplash.com/photos/ZXfUUM_LR0k>)
+- [CMO] (<https://unsplash.com/photos/ZXfUUM_LR0k>)
 
 ### Acknowledgments
 
