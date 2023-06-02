@@ -539,6 +539,32 @@ footer {
         font-size: 150%;
     }
 
+    #team-section {
+        height: auto;
+    }
+
+    #team-section-text {
+        font-size: 200%;
+        width: 450px;
+        height: 60px;
+        padding: 5px 0 0 0;
+    }
+
+    #team-section-info {
+        display: flex;
+        flex-direction: column;
+    }
+
+    #team-ceo,
+    #team-cto,
+    #team-coo,
+    #team-cfo,
+    #team-cmo {
+        width: 45%;
+        margin: 0 auto;
+        padding: 0 25px 15px;
+    }
+
     footer {
         padding-top: 25px;
     }
