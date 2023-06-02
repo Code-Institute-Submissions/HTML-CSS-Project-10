@@ -592,3 +592,132 @@ footer {
         padding-top: 30px;
     }
 }
+
+/* Screens from 800px and less */
+@media screen and (max-width: 400px) {
+    #section-one {
+        height: 475px;
+    }
+
+    #section-one-text h1 {
+        font-size: 150%;
+        width: 400px;
+        padding: 45px 0 0 0;
+    }
+
+    #section-two {
+        height: 850px;
+    }
+
+    #section-two-text {
+        width: 400px;
+    }
+
+    hr {
+        padding: 0;
+    }
+
+    #s2-reason-one {
+        border-right: 1px solid white;
+    }
+
+    #s2-reason-three {
+        border-left: 1px solid white;
+    }
+
+    .s2-reason-header {
+        font-size: 145%;
+    }
+
+    .s2-reason-text {
+        text-align: left;
+        padding: 24px 20px;
+    }
+
+    #section-three {
+        height: 350px;
+    }
+
+    #section-three-text {
+        width: 400px;
+    }
+
+    #section-three div {
+        padding: 60px 0 0 0;
+    }
+
+    #about-section-one {
+        height: 755px;
+    }
+
+    #about-header {
+        font-size: 175%;
+        width: 450px;
+        height: 50px;
+        padding: 25px 0 0 0;
+    }
+
+    .about-text {
+        font-size: 125%;
+    }
+
+    .fa-solid,
+    .fas {
+        font-size: 250%;
+    }
+
+    .fa-brands,
+    .fab {
+        font-size: 250%;
+    }
+
+    .game-header {
+        font-size: 150%;
+    }
+
+    #team-section {
+        height: auto;
+    }
+
+    #team-section-text {
+        font-size: 200%;
+        width: 450px;
+        height: 60px;
+        padding: 5px 0 0 0;
+    }
+
+    #team-section-info {
+        display: flex;
+        flex-direction: column;
+    }
+
+    #team-ceo,
+    #team-cto,
+    #team-coo,
+    #team-cfo,
+    #team-cmo {
+        width: 45%;
+        margin: 0 auto;
+        padding: 0 25px 15px;
+    }
+
+    footer {
+        padding-top: 25px;
+    }
+
+    #footer-left {
+        margin-left: 10px;
+    }
+
+    #footer-center {
+        width: 40%;
+    }
+
+    #footer-right {
+        padding-top: 30px;
+    }
+
+    #menu {
+        font-size: 105%;
+    }
+}
