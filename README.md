@@ -2,7 +2,7 @@
 
 The Frostbite Studios Website can be viewed on all devices to allow users to see who and what exactly Frostbite Game Studios is.
 
-![Frostbite Studios Website shown on a range of devices](assets/images/frostbite*studios*site.jpg)
+![Frostbite Studios Website shown on a range of devices](assets/images/frostbite-studios-site.jpg)
 
 [View Frostbite Studios on Github Pages]()
 
